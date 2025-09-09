@@ -1,20 +1,5 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+I am an Associate Professor in the Department of Computer Engineering, School of Information Technology, [Jiangsu Open University](https://sit.jsou.edu.cn/2023/0904/c6266a159158/page.psp). I obtained my Ph.D. degree at the School of Optical-Electrical and Computer Engineering, University of Shanghai for Science and Technology in 2021, supervised by Prof. Qiu Chen, Prof. Feifei Lee and Prof. Yagang Wang. Prior to that, I received my B.E. in Automation from Changzhou Institute of Technology In in 2016.
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+<br />My research interest falls in the scope of Noisy Label Learning, Computer Vision and Pattern Recongition, which enhance deep neural networks robustness against data corruption [ORCID](https://orcid.org/0000-0003-1749-8653). My future research interests include learning with noisy labels in medical imaging, learning with biased labels, and out-of-distribution (OOD) detection.
 
-#### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
-
-#### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
-
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
-
-#### Research Interests  
-XX, XX, XX, XX.
+<br />Learning with noisy labels is a significant area of research in machine learning and artificial intelligence. It focuses on developing methods to train models effectively when the training data contains incorrect or mislabeled instances, which is common in real-world datasets. Noisy labels can arise from various sources, such as human error during data annotation, automated labeling systems, or inherent ambiguities in the data. The ultimate goal of learning with noisy labels is to ensure that models can reliably extract meaningful patterns and make accurate predictions, even in the presence of imperfect data.
