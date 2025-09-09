@@ -1,21 +1,34 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+### **Associate Professor**  
+**Aug 2025 – Now | Jiangsu Open University**  
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+Worked in the Department of Computer Engineering, School of Information Technology, Jiangsu Open University.
 
-#### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+### **Lecturer**  
+**Oct 2023 – July 2025 | Jiangsu Open University**  
+
+Worked in the Department of Computer Engineering, School of Information Technology, Jiangsu Open University.
+
+### **Purse a doctoral degree**  
+**Sep 2016 – June 2021 | University of Shanghai for Science and Technology**  
+
+Supervised by Prof. Qiu Chen, Prof. Feifei Lee and Prof. Yagang Wang at the School of Optical-Electrical and Computer Engineering, University of Shanghai for Science and Technology. 
+
+### **Purse an undergraduate  degree**  
+**Sep 2012 – June 2016 | Changzhou Institute of Technology**  
+
+Received the B.E. in Automation from Changzhou Institute of Technology.
 
 ---
 
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
+### **副教授**  
+**2025年8月 – 今 | 江苏开放大学**
 
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
+### **讲师**  
+**2023年10月 – 2025年7月 | 江苏开放大学**
 
-#### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+### **博士**  
+**2016年9月 – 2021年6月 | 上海理工大学**
+
+### **学士**  
+**2012年9月 – 2016年6月 | 常州工学院**  
+
