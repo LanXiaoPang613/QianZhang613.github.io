@@ -1,5 +1,3 @@
-News
-======
 <br />**Sep 2025**         Congrats, I have been promoted to associate professor. <br />
 <br />**Apr 2025**         I am in the youth editorial board of Interdisciplinary Sciences: Computational Life Sciences(INSC). <br />
 <br />**Mar 2025**         I am in the editorial board of China Journal of Science and Technology (CJST). <br />
