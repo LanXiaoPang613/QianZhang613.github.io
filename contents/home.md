@@ -1,4 +1,4 @@
-[![QianZhang](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/LanXiaoPang613/QianZhang613.github.io)
+[![QianZhang](https://img.shields.io/badge/QianZhang-github-blue?logo=github)](https://github.com/LanXiaoPang613/QianZhang613.github.io)
 
 I am an Associate Professor in the Department of Computer Engineering, School of Information Technology, [Jiangsu Open University](https://sit.jsou.edu.cn/2023/0904/c6266a159158/page.psp). I obtained my Ph.D. degree at the School of Optical-Electrical and Computer Engineering, University of Shanghai for Science and Technology in 2021, supervised by Prof. Qiu Chen, Prof. Feifei Lee and Prof. Yagang Wang. Prior to that, I received my B.E. in Automation from Changzhou Institute of Technology In in 2016.
 
