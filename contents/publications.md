@@ -82,6 +82,15 @@ Selected Publications on Artificial Intelligence
   Zhenkai Qin, Baozhong Wei, Huan Zeng, **Qian Zhang***.<br />
   In Systems Science & Control Engineering 2025. [PDF](https://doi.org/10.1080/21642583.2025.2546843) <br />
 
+* Energy-Efficient Adaptive Perception for Autonomous Driving via Lightweight Policy Learning and Simulation-based Optimization.<br />
+  Yanzhan Chen, Fan Yu, Ge Jin, **Qian Zhang***, M. Pratama.<br />
+  In Knowledge-Based Systems 2025. [PDF]() <br />
+
+* Fine-grained preference optimization with differentiated token weighting for llm-based recommendations.<br />
+  Z. Wei, **Qian Zhang**, et al.<br />
+  In Preprint 2025. [PDF]() <br />
+
+
 Selected Publications on 5G NR
 ======
 * Double-RIS Assisted MIMO V2V Channels: Modeling, Simulation, and Correlation Statistics Analysis. <br />
