@@ -88,7 +88,7 @@ Selected Publications on Artificial Intelligence
 
 * Fine-grained preference optimization with differentiated token weighting for llm-based recommendations.<br />
   Z. Wei, **Qian Zhang**, et al.<br />
-  In Preprint 2025. [PDF]() <br />
+  In Knowledge-Based Systems 2025. [PDF]() <br />
 
 
 Selected Publications on 5G NR
