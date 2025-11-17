@@ -68,7 +68,7 @@ Selected Publications on Artificial Intelligence
 
 * Airway Segmentation Network for Enhanced Tubular Feature Extraction.<br />
   Qibiao Wu, Yagang Wang, **Qian Zhang**.<br />
-  In Preprint 2025. [PDF](https://arxiv.org/abs/2507.06581) <br />
+  In Medical Image Analysis 2025. [PDF](https://arxiv.org/abs/2507.06581) <br />
 
 * Enhancing intrusion detection performance using GCN-LOF: A hybrid graph-based anomaly detection approach.<br />
   Zhenkai Qin, Lingying Li, Qining Luo, Xiaochuan Yu, **Qian Zhang***.<br />
@@ -88,7 +88,7 @@ Selected Publications on Artificial Intelligence
 
 * Fine-grained preference optimization with differentiated token weighting for llm-based recommendations.<br />
   Z. Wei, **Qian Zhang**, et al.<br />
-  In Knowledge-Based Systems 2025. [PDF]() <br />
+  In Knowledge-Based Systems 2025. [PDF](https://doi.org/10.1016/j.knosys.2025.114805) <br />
 
 
 Selected Publications on 5G NR
